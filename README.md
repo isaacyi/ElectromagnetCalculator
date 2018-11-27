@@ -1,0 +1,2 @@
+# ElectromagnetCalculator
+The function of an electromagnet calculator is to compute and perform the values of current in Amperes, the number of turns, cross-sectional area in meters-squared and the distance from the magnet converted into Force in the unit of Newtons: Force = ((N x I)^2 x k x A) / (2 x g^2). My audience will be users, particularly in the field of engineering, interested in analyzing the force in an electromagnetic field. I created this application in Visual Studio 2017.
